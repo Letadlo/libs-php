@@ -1,0 +1,6 @@
+[submodule "Femoz/Utils"]
+	path = Femoz/Utils
+	url = https://github.com/Letadlo/libs-php-utils
+[submodule "Nette"]
+	path = Nette
+	url = https://github.com/Letadlo/libs-php-nette
